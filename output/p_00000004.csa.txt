@@ -1,0 +1,8 @@
+global/GeneralSittingSystem/Script.RunScriptEx("SitButtonTrigger_OnTriggerEnter", parent);
+global/GeneralSittingSystem/Script.RunScriptEx("SittableParentObject_Setup", parent/parent);
+global/GeneralSittingSystem/Script.RunScriptEx("SitButtonTrigger_OnTriggerExit", parent/parent);
+global/GeneralSittingSystem/Script.RunScriptEx("HorseTrigger_OnTriggerEnter", parent);
+global/GeneralSittingSystem/Script.RunScriptEx("SitButtonTrigger_OnTriggerEnter", parent);
+global/GeneralSittingSystem/Script.RunScriptEx("SittableParentObject_Setup", parent/parent);
+global/GeneralSittingSystem/Script.RunScriptEx("SitButtonTrigger_OnTriggerExit", parent/parent);
+global/GeneralSittingSystem/Script.RunScriptEx("HorseTrigger_OnTriggerEnter", parent);
